@@ -23,3 +23,16 @@
 **这里有我上传的Matlab学习有关的资料，可点击下方链接查看**
 
 [MATLAB_LEARNING](https://github.com/pluckypioneer/Matlab_Learning)
+
+## 💖 Star History
+
+<a href="https://star-history.com/#pluckypioneer/SMU_BME_ZILIAO&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=pluckypioneer/SMU_BME_ZILIAO&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=pluckypioneer/SMU_BME_ZILIAO&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=pluckypioneer/SMU_BME_ZILIAO&type=Date" />
+ </picture>
+</a>
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
